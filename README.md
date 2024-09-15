@@ -1,1 +1,1 @@
-# STONE-BOX-FILTER
+# STONE-BOX-FILTER A stone box filter is a water filtration system commonly used in natural or rural settings to treat and purify water, typically from rainwater, groundwater, or surface water sources. It operates using layers of stone, sand, and gravel to filter out sediment and contaminants.
